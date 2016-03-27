@@ -1,0 +1,10 @@
+git init // Initialise a git repository in the root of the folder and adds .git
+type nul >file // Create new file
+git status // See which files are tracked
+git add // Adds a file to the staging environment
+
+git commit -m "Your message about the commit" // A commit is a record of what files you have changed since the last time you made a commit
+
+git checkout -b <my branch name> // Creates automatically and changes branch
+git branch // 
+git checkout //
